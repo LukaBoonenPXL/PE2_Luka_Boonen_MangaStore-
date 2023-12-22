@@ -1,0 +1,224 @@
+    [
+        {
+            "id": 1,
+            "name": "20th Century boys perfect edition volume 8",
+            "description": "volume 8",
+            "image": "src/assets/20th-century-boys-perfect-edition-vol-08-gn-manga.jpg",
+            "price": 28.26,
+            "price_with_tax": 29.00,
+            "stock": 9,
+            "Version": "paperback",
+            "Language": "English"
+        },
+        {
+            "id": 2,
+            "name": "Berserk volume 39",
+            "description": "volume 39",
+            "image": "src/assets/berserk-vol-39-tp-manga.jpg",
+            "price": 14.10,
+            "price_with_tax": 15.00,
+            "stock": 8,
+            "Version": "paperback",
+            "Language": "English"
+            
+        },
+        {
+            "id": 3,
+            "name": "Colorless volume 4",
+            "description": "volume 4",
+            "image": "src/assets/colorless-04-engelstalig-manga.png",
+            "price": 11.28,
+            "price_with_tax": 12.00,
+            "stock": 7,
+            "Version": "paperback",
+            "Language": "English"
+        },
+        {
+            "id": 4,
+            "name": "Dai Dark volume 4",
+            "description": "volume 4",
+            "image": "src/assets/dai-dark-vol-04-gn-manga.jpg",
+            "price": 11.28,
+            "price_with_tax": 12.00,
+            "stock": 6,
+            "Version": "paperback",
+            "Language": "English"
+        },
+        {
+            "id": 5,
+            "name": "Death note collection volume 1 black edition",
+            "description": "volume 1 black edition",
+            "image": "src/assets/death-note-collection-vol-01-black-edition-manga.jpg",
+            "price": 28.26,
+            "price_with_tax": 29.00,
+            "stock": 4,
+            "Version": "hardcover",
+            "Language": "English"
+        },
+        {
+            "id": 6,
+            "name": "Death note collection volume 2 black edition",
+            "description": "volume 2 black edition",
+            "image": "src/assets/death-note-collection-vol-02-black-edition-manga.jpg",
+            "price": 28.26,
+            "price_with_tax": 29.00,
+            "stock": 5,
+            "Version": "hardcover",
+            "Language": "English"
+        },
+        {
+            "id": 7,
+            "name": "Dorohedoro volume 17",
+            "description": "volume 17",
+            "image": "src/assets/dorohedoro-vol-17-gn.jpg",
+            "price": 17.86,
+            "price_with_tax": 19.00,
+            "stock": 11,
+            "Version": "paperback",
+            "Language": "English"
+        },
+        {
+            "id": 8,
+            "name": "Fire force volume 33",
+            "description": "volume 33",
+            "image": "src/assets/fire-force-33-engelstalig-manga.png",
+            "price": 17.86,
+            "price_with_tax": 19.00,
+            "stock": 3,
+            "Version": "paperback",
+            "Language": "English"
+        },
+        {
+            "id": 9,
+            "name": "Goodnight Punpun volume 6",
+            "description": "volume 6",
+            "image": "src/assets/goodnight-punpun-vol-06-gn-manga.jpg",
+            "price": 28.26,
+            "price_with_tax": 29.00,
+            "stock": 5,
+            "Version": "paperback",
+            "Language": "English"
+        },
+        {
+            "id": 10,
+            "name": "Homunculus omnibus volume 1-2",
+            "description": "volume 1-2",
+            "image": "src/assets/homunculus-omnibus-vol-01-02-gn-manga.jpg",
+            "price": 28.26,
+            "price_with_tax": 29.00,
+            "stock": 10,
+            "Version": "hardcover",
+            "Language": "French"
+        },
+        {
+            "id": 11,
+            "name": "Hunter x hunter volume 24",
+            "description": "volume 24",
+            "image": "src/assets/hunter-x-hunter-vol-24-gn.jpg",
+            "price": 13.16,
+            "price_with_tax": 14.00,
+            "stock": 6,
+            "Version": "paperback",
+            "Language": "French"
+        },
+        {
+            "id": 12,
+            "name": "Mobile suit Gundam Thunderbolt vol 15",
+            "description": "volume 15",
+            "image": "src/assets/mobile-suit-gundam-thunderbolt-vol-15-gn-manga-hc.jpg",
+            "price": 13.16,
+            "price_with_tax": 14.00,
+            "stock": 5,
+            "Version": "paperback",
+            "Language": "French"
+        },
+        {
+            "id": 13,
+            "name": "One piece volume 90",
+            "description": "volume 90",
+            "image": "src/assets/one-piece-vol-90-gn-manga.jpg",
+            "price": 11.28,
+            "price_with_tax": 12.00,
+            "stock": 5,
+            "Version": "paperback",
+            "Language": "English"
+        },
+        {
+            "id": 14,
+            "name": "Promised neverland volume 6",
+            "description": "volume 6",
+            "image": "src/assets/promised-neverland-vol-06-gn-manga.jpg",
+            "price": 13.16,
+            "price_with_tax": 14.00,
+            "stock": 1,
+            "Version": "paperback",
+            "Language": "French"
+        },
+        {
+            "id": 15,
+            "name": "soul eater volume 21",
+            "description": "volume 21",
+            "image": "src/assets/soul-eater-vol-21-gn.jpg",
+            "price": 13.16,
+            "price_with_tax": 14.00,
+            "stock": 5,
+            "Version": "paperback",
+            "Language": "French"
+        },
+        {
+            "id": 16,
+            "name": "Tokyo ghoul volume 4",
+            "description": "volume 4",
+            "image": "src/assets/tokyo-ghoul-vol-04-gn.jpg",
+            "price": 13.16,
+            "price_with_tax": 14.00,
+            "stock": 4,
+            "Version": "paperback",
+            "Language": "English"
+        },
+        {
+            "id": 17,
+            "name": "Tokyo ghoul volume 8",
+            "description": "volume 8",
+            "image": "src/assets/tokyo-ghoul-vol-08-gn.jpg",
+            "price": 13.16,
+            "price_with_tax": 14.00,
+            "stock": 2,
+            "Version": "paperback",
+            "Language": "English"
+        },
+        {
+            "id": 18,
+            "name": "vagabond big edition volume 1",
+            "description": "volume 1",
+            "image": "src/assets/vagabond-big-edition-vol-01-gn.jpg",
+            "price": 17.86,
+            "price_with_tax": 19.00,
+            "stock": 3,
+            "Version": "hardcover",
+            "Language": "English"
+        },
+        {
+            "id": 19,
+            "name": "vinland saga volume 03",
+            "description": "volume 3",
+            "image": "src/assets/vinland-saga-vol-03-gn.jpg",
+            "price": 28.26,
+            "price_with_tax": 29.00,
+            "stock": 2,
+            "Version": "hardcover",
+            "Language": "English"
+        },
+        {
+            "id": 20,
+            "name": "Jujutsu Kaisen volume 1",
+            "description": "volume 1",
+            "image": "src/assets/9781974710027_p0_v1_s1200x630.jpg",
+            "price": 17.86,
+            "price_with_tax": 19.00,
+            "stock": 8,
+            "Version": "paperback",
+            "Language": "English"
+        }
+    
+    ]
